@@ -4,6 +4,14 @@
 
 ---
 
+## Clone
+
+```bash
+git clone https://github.com/highskills123/DrugLordEmpire.git
+```
+
+---
+
 ## Overview
 
 **Empire of Ash** is a UE5 mobile game (Android-first) combining top-down/third-person management and action gameplay for up to 4 players in co-op. Players arrive in a hostile city with nothing and must build a black-market empire dealing in **synthetic fictional compounds**, banned bio-serums, illegal stimulant tech, and cartel-controlled nightlife products.
