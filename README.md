@@ -14,7 +14,7 @@
 
 | Property | Value |
 |---|---|
-| Engine | Unreal Engine 5.4+ |
+| Engine | Unreal Engine 5.7+ |
 | Platform | Android (mobile-first) |
 | Players | 1-4 co-op (online) |
 | Camera | Top-down / isometric |
