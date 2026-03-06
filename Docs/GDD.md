@@ -1,7 +1,7 @@
 # Game Design Document — Empire of Ash
 
 **Version:** 0.1  
-**Engine:** Unreal Engine 5.4+  
+**Engine:** Unreal Engine 5.7+  
 **Platform:** Android (mobile-first)  
 **Players:** 1–4 co-op (online)
 

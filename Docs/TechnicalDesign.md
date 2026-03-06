@@ -1,6 +1,6 @@
 # Technical Design Document — Empire of Ash
 
-**Engine:** Unreal Engine 5.4+  
+**Engine:** Unreal Engine 5.7+  
 **Coding standard:** Blueprint-first; C++ for backend / server-authoritative systems  
 **Target platform:** Android (Snapdragon 7xx+)  
 **Networking:** 4-player online co-op, dedicated server model
