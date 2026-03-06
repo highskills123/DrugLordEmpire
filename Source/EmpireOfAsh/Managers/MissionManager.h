@@ -5,8 +5,9 @@
 #include "CoreMinimal.h"
 #include "UObject/Object.h"
 #include "Data/EmpireTypes.h"
-#include "Core/EmpirePlayerController.h"
 #include "MissionManager.generated.h"
+
+class AEmpirePlayerController;
 
 USTRUCT(BlueprintType)
 struct FMissionRecord
